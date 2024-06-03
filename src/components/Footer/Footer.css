@@ -1,0 +1,21 @@
+.footer-container {
+    padding: 10px;
+    text-align: left;
+  
+}
+
+.level0 {
+    padding-left: 3em; 
+}
+
+.level1 {
+    padding-left: 6em;
+}
+
+.footer-container a {
+    color: black; /* default color for all links */
+  }
+  
+  .footer-container a.active {
+    color: green; /* color for active link */
+  }

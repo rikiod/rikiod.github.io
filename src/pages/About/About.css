@@ -1,0 +1,10 @@
+.about-container {
+    padding: 20px;
+    text-align: left;
+    margin-top: 0px;
+    font-size: 20pt;
+}
+
+.h1 {
+    color: green; /* color for  active link */
+}
