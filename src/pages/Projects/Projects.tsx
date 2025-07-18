@@ -43,6 +43,8 @@ sports posts using React Native and Google Firebase SDK’s Authentication, Clou
                 <li>Engineered social media app for 40+ club members as platform to post events with text and images. Implemented in Swift.</li>
                 <li>Created a PokéDex app using SwiftUI, displaying 800+ Pokémon using separate screens with filtering capabilities.</li>
             </ul>
+
+            <br></br>
             {/* <p>I learned a lot about mobile development.</p> */}
 
 
